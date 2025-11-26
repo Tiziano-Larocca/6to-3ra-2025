@@ -1,0 +1,72 @@
+@import url(./fonts.css);
+
+*{
+
+    margin: 0;
+    padding: 0;
+
+    font-family: Tektur;
+
+}
+
+body{
+
+    height: 100vh;
+
+    background: url(../imgs/battlefield.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+section{
+
+    height: auto;
+    width: auto;
+
+    row-gap: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    text-align: center;
+    min-width: 300px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+section h1{font-size: 4em;}
+section p{font-size: 1.2em;}
+
+section a{
+
+    height: 70px;
+    width: 250px;
+
+}
+
+section button{
+
+    height: 100%;
+    width: 100%;
+
+    font-size: 1.7em;
+    color: white;
+    transition: 0.25s;
+
+    background-color: black;
+    border: none;
+
+}
+
+section img{height: 250px;}
+
+section button:hover{background-color: rgb(124, 8, 8);}

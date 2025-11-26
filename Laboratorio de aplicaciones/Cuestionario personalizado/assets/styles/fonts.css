@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Alfa;
+    src: url(../fonts/Alfa/AlfaSlabOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: Bungee;
+    src: url(../fonts/Bungee/BungeeShade-Regular.ttf);
+}
+
+@font-face {
+    font-family: Doto;
+    src: url(../fonts/Doto/Doto-VariableFont_ROND\,wght.ttf);
+}
+
+@font-face {
+    font-family: Faster;
+    src: url(../fonts/Faster/FasterOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: Gravitas;
+    src: url(../fonts/Gravitas/GravitasOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: Jersey;
+    src: url(../fonts/Jersey/Jersey10-Regular.ttf);
+}
+
+@font-face {
+    font-family: Metal;
+    src: url(../fonts/Metal/MetalMania-Regular.ttf);
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../fonts/Nunito/Nunito-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Orbitron;
+    src: url(../fonts/Orbitron/Orbitron-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Outfit;
+    src: url(../fonts/Outfit/Outfit-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Press;
+    src: url(../fonts/PressStart/PressStart2P-Regular.ttf);
+}
+
+@font-face {
+    font-family: Rock;
+    src: url(../fonts/Rock/Rock3D-Regular.ttf);
+}
+
+@font-face {
+    font-family: Tektur;
+    src: url(../fonts/Tektur/Tektur-VariableFont_wdth\,wght.ttf);
+}
